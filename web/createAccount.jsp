@@ -82,7 +82,7 @@
                 key = Base64.getDecoder().decode(keyString);
 
                 // Retrieve the proper URL components to sign
-                String resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=AIzaSyCdgSmJQrHXGR--amVe4rJ-oYYMxxBs1Js&libraries=places&callback=autoCompleteCreateAcctForm";
+                String resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=APIKey&libraries=places&callback=autoCompleteCreateAcctForm";
 
                 // Get an HMAC-SHA1 signing key from the raw key bytes
                 SecretKeySpec sha1Key = new SecretKeySpec(key, "HmacSHA1");
