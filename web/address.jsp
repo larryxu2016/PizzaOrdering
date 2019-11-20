@@ -118,11 +118,11 @@
                 key = Base64.getDecoder().decode(keyString);
 
                 // Retrieve the proper URL components to sign
-                String resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=AIzaSyCdgSmJQrHXGR--amVe4rJ-oYYMxxBs1Js&libraries=places&callback=autoComplete";
+                String resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=APIKey&libraries=places&callback=autoComplete";
                 
                 deliveryAddressParam = (String)session.getAttribute("deliveryAddressParam");
                 if (deliveryAddressParam != null) {
-                    resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=AIzaSyCdgSmJQrHXGR--amVe4rJ-oYYMxxBs1Js&libraries=places&callback=nearestDeliveryStore";
+                    resource = "https://maps.googleapis.com/maps/api/js" + '?' + "key=APIKey&libraries=places&callback=nearestDeliveryStore";
                 }
 
                 // Get an HMAC-SHA1 signing key from the raw key bytes
