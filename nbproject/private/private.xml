@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/checkout.jsp</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/pizzaMaker.jsp</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/command/customization/RemoveToppingCommand.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/createAccount.jsp</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/styles/main.css</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/js/app.js</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/web/cart.jsp</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/filter/OriginCheckFilter.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/business/Cart.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/business/Item.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/command/menu/AddItemCommand.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/Customization.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/business/Pizza.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/command/customization/AddToppingCommand.java</file>
+            <file>file:/C:/Users/LarryXu/Documents/NetBeansProjects/PizzaOrdering/src/java/pizza/controller/command/Dispatcher.java</file>
+        </group>
+    </open-files>
+</project-private>
